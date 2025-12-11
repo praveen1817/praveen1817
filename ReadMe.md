@@ -16,7 +16,7 @@ Currently working on web management<br>currently learning Python Datastuctures<b
 ![](https://github-profile-trophy.vercel.app/?username=praveen1817&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+The Only Time you Lose is when you Give up..!!!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=praveen1817&limit=5&theme=dark&combine_all_yearly_contributions=true)
