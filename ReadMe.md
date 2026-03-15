@@ -1,27 +1,127 @@
-# 💫 About Me:
-Currently working on web management<br>currently learning Python Datastuctures<br>Ask me about buliding Web sites
+<h1 align="center">Hi 👋, I'm Praveen Balaji</h1>
+<h3 align="center">Backend Developer | AI Application Builder | Node.js & FastAPI</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__praveen_18__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PRAVEEN BALAJI) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praveen1817&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=praveen1817&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen1817&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=praveen1817&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-The Only Time you Lose is when you Give up..!!!
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=praveen1817&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://praveenbalaji-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/praveen1817">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/praveenbalaji-s">
+    <img src="https://img.shields.io/badge/LinkedIn-PraveenBalaji-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=praveen1817&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+💻 Backend developer passionate about building scalable APIs and AI-powered applications.
+
+⚡ Skilled in **Node.js, Express, FastAPI, and React** for building modern web applications.
+
+🤖 Currently exploring **AI infrastructure, RAG systems, AI agents, and intelligent backend architectures**.
+
+📚 Continuously learning **system design, DSA, and cloud-native development**.
+
+---
+
+# 💻 Programming Languages
+
+- JavaScript
+- Python
+- Java
+- SQL
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-AI-blue?style=for-the-badge)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📂 Projects
+
+### 🤖 AI Stock News Manager
+AI-based system that analyzes stock market news and extracts useful insights using AI models and semantic search.
+
+**Tech:** Node.js, Express, AI APIs, RAG
+
+---
+
+### 📊 AI Portfolio Analysis Agent
+AI agent that analyzes investment portfolios and performs:
+
+- Portfolio document parsing
+- Stock analysis
+- Company research
+- AI-generated insights
+
+**Tech:** LangChain, Python, AI APIs
+
+---
+
+### 🌐 Personal Portfolio
+
+🔗 https://praveenbalaji-portfolio.onrender.com/
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=praveen1817&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen1817&theme=radical"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen1817&theme=react-dark"/>
+</p>
+
+---
+
+# 🎓 Certifications
+
+✔ **Digital Edge 101 – FutureSkills Prime (NASSCOM)**  
+Issued: March 2026
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Portfolio  
+https://praveenbalaji-portfolio.onrender.com/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/praveenbalaji-s
+
+💻 GitHub  
+https://github.com/praveen1817
+
+---
+
+⭐ From [Praveen Balaji](https://github.com/praveen1817)
