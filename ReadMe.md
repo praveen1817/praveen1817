@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Praveen Balaji</h1>
-<h3 align="center">Backend Developer | AI Application Builder | Node.js & FastAPI</h3>
+<h1 align="center">Hi 👋, I'm Praveen Balaji S</h1>
+<h3 align="center">Backend-focused Software Developer | Node.js | Express | AI Applications</h3>
 
 <p align="center">
   <a href="https://praveenbalaji-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
   </a>
   <a href="https://github.com/praveen1817">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-praveen1817-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/praveenbalaji-s">
     <img src="https://img.shields.io/badge/LinkedIn-PraveenBalaji-blue?style=for-the-badge&logo=linkedin">
@@ -17,68 +17,111 @@
 
 # 🚀 About Me
 
-💻 Backend developer passionate about building scalable APIs and AI-powered applications.
+Backend-focused Software Developer with hands-on experience in **Node.js, Express.js, MongoDB, and REST API development**, along with practical exposure to **AI agent–based applications**.
 
-⚡ Skilled in **Node.js, Express, FastAPI, and React** for building modern web applications.
-
-🤖 Currently exploring **AI infrastructure, RAG systems, AI agents, and intelligent backend architectures**.
-
-📚 Continuously learning **system design, DSA, and cloud-native development**.
+Skilled in **backend logic design, API building, and database modeling**.  
+Strong interest in **scalable backend systems, AI-powered applications, and intelligent automation**.
 
 ---
 
 # 💻 Programming Languages
 
-- JavaScript
-- Python
-- Java
-- SQL
+- Python  
+- JavaScript  
+- Java  
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Technical Skills
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- Node.js  
+- Express.js  
+- FastAPI  
+- REST API Development  
+- Middleware Design  
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-AI-blue?style=for-the-badge)
+### Database
+- SQL  
+- MongoDB  
 
 ### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Git  
+- Postman  
+- VS Code  
+- Render  
 
 ---
 
-# 📂 Projects
+# 🎓 Education
 
-### 🤖 AI Stock News Manager
-AI-based system that analyzes stock market news and extracts useful insights using AI models and semantic search.
-
-**Tech:** Node.js, Express, AI APIs, RAG
-
----
-
-### 📊 AI Portfolio Analysis Agent
-AI agent that analyzes investment portfolios and performs:
-
-- Portfolio document parsing
-- Stock analysis
-- Company research
-- AI-generated insights
-
-**Tech:** LangChain, Python, AI APIs
+**SNS College of Engineering**  
+Bachelor of Computer Science and Design  
+CGPA: **8.03**  
+2022 – 2026
 
 ---
 
-### 🌐 Personal Portfolio
+# 🏢 Industrial Experience
+
+### ST Software Solutions – Tirupur  
+**Full Stack Development Intern**  
+December 2026  
+
+- Contributed to development of a **portfolio website for a civil construction materials company**
+
+---
+
+### ACCENT TECHNO SOFT (ATS) – Coimbatore  
+**Full Stack Development Intern (Offline)**  
+December 2024 – January 2025  
+
+- Completed **Full Stack Development internship**
+- Gained proficiency in **Node.js, Express.js**
+- Executed assigned development tasks
+
+---
+
+# 🚀 Projects
+
+### 🤖 AI Stock Analyzer
+**January 2026**
+
+Developed a context-aware **AI Stock Analyzer** that:
+
+- Ingests stock-related data
+- Performs intelligent analysis using **LLM reasoning and tools**
+- Generates **actionable market insights**
+- Built on automated and scalable **AI infrastructure**
+
+---
+
+### 🍔 Full Stack Food Delivery Application
+**September – November 2025**
+
+Designed and developed a **Full Stack Food Delivery Application demo model**.
+
+This personal project helped gain strong proficiency in:
+
+- Backend development
+- API design
+- Full stack architecture
+
+---
+
+# 📜 Certifications
+
+- Business Intelligence & Analytics — **NPTEL**
+- Java Programming — **PrepInsta**
+- Enterprise Design Thinking Practitioner — **IBM**
+- Java — **GreatLearning**
+- Azure Fundamentals — **Microsoft**
+- React JS — **Udemy**
+- Produce Management — **MBA**
+
+---
+
+# 🌐 Portfolio
 
 🔗 https://praveenbalaji-portfolio.onrender.com/
 
@@ -104,23 +147,19 @@ AI agent that analyzes investment portfolios and performs:
 
 ---
 
-# 🎓 Certifications
+# 📬 Contact Me
 
-✔ **Digital Edge 101 – FutureSkills Prime (NASSCOM)**  
-Issued: March 2026
-
----
-
-# 🌐 Connect With Me
-
-🌍 Portfolio  
-https://praveenbalaji-portfolio.onrender.com/
+📧 Email  
+praveen42165@gmail.com
 
 💼 LinkedIn  
 https://www.linkedin.com/in/praveenbalaji-s
 
 💻 GitHub  
 https://github.com/praveen1817
+
+🌍 Portfolio  
+https://praveenbalaji-portfolio.onrender.com/
 
 ---
 
